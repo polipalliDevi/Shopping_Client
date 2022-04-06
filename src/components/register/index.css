@@ -1,0 +1,184 @@
+
+.container{
+    background-color: #e7dada;
+}
+.sigin{
+    height: auto;
+}
+
+.signin-block{
+    height: auto;
+    width: 500px;
+    margin-left: 500px;
+    /* align-content: center; */
+    opacity: 1;
+    border: dotted rgb(233, 217, 187);
+    border-radius: 10%;
+    background-color: rgba(206, 217, 226, 0.377)
+;
+}
+.sigin-heading{
+    position: absolute;
+    top: 10px;
+    /* margin-top: 80px;  */
+    margin-left: 30px; 
+    margin-bottom: 30px;
+    height: 44px;
+    text-align: left;
+    font: normal normal medium 32px/60px Avenir;
+    letter-spacing: 1.28px;
+    color: #081364;    
+    opacity: 1;
+}
+.sigin-heading{
+    align-items: left;
+}
+.signin-label1{
+    position: absolute;
+    left: 535px;
+    margin-top: 60px;
+    margin-right: 900px;    
+    color: #081364;  
+}
+.signin-label2{
+    position: absolute;
+    top: 150px;
+    left: 535px;
+    margin-top: 60px;
+    margin-right: 900px;    
+    color: #081364;  
+}
+.signin-label3{
+    position: absolute;
+    top: 220px;
+    left: 530px;
+    margin-top: 60px;
+    margin-right: 900px;    
+    color: #081364;  
+}
+.signin-label4{
+    position: absolute;
+    top: 280px;
+    left: 530px;
+    margin-top: 60px;
+    margin-right: 900px;    
+    color: #081364; 
+   
+}
+.signin-label5{
+    position: absolute;
+    top: 345px;
+    left: 530px;
+    margin-top: 60px;
+    margin-right: 900px;    
+    color: #081364; 
+   
+}
+.sigin-input1{
+position: relative;
+top: 90px;
+right: 90px;
+    border: none;
+    height: 25px;
+    width: 300px;
+    margin-left: 30px;
+}
+.sigin-input2{
+    position: relative;
+    top: 130px;
+    right: 90px;
+        border: none;
+        height: 25px;
+        width: 300px;
+        margin-left: 30px;
+}
+.sigin-input3{
+    position: relative;
+    top: 170px;
+    right: 90px;
+        border: none;
+        height: 25px;
+        width: 300px;
+        margin-left: 30px;
+}   
+.sigin-input4{
+    position: relative;
+    top: 210px;
+    right: 90px;
+        border: none;
+        height: 25px;
+        width: 300px;
+        margin-left: 30px;
+} 
+.sigin-input5{
+    position: relative;
+    top: 245px;
+    right: 90px;
+        border: none;
+        height: 25px;
+        width: 300px;
+        margin-left: 30px;
+}
+.div-btn{
+    position: absolute;
+    top: 480px;
+}
+.btn{
+    border-radius: 5px;
+    width: 150px;
+height: 50px;
+background: #081364;  
+margin-left: 30px;
+color: #FFFFFF;
+font-size: large;
+letter-spacing: 1px;
+}
+.sumbit-btn{
+    position: relative;
+    top: 700px;
+    float: left;
+border-radius: 5px;
+/* margin-top: 300px; */
+margin-left: 26px;
+width: 150px;
+height: 50px;
+background: #081364;  
+text-align: center;
+font: normal normal bold 15px/20px Open Sans;
+font-size: 20px;
+letter-spacing: 2px;
+color: #FFFFFF;
+opacity: 1; 
+}
+
+.sign-block{
+    position: absolute;
+    top: 530px;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+}
+.para{
+    text-align: left;
+    margin-left: 30px;
+    font: normal normal normal 16px/26px Avenir;
+letter-spacing: 0.64px;
+color: #040533;
+text-transform: capitalize;
+opacity: 1;
+}
+.sign-btn{
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border: 2px solid #4552C1;
+    border-radius: 10%;
+    text-align: center;
+    font: normal normal bold 15px/20px Open Sans;
+    letter-spacing: 1px;
+    font-size: large;
+    color: #4552C1;
+    opacity: 1; 
+}

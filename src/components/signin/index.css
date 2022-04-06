@@ -1,0 +1,112 @@
+
+.container{
+    background-color: #e7dada;
+}
+
+.signin-block{ 
+    height: 630px;
+    width: 500px;
+    margin-left: 500px;
+    /* align-content: center; */
+    opacity: 1;
+    border: dotted rgb(233, 217, 187);
+    border-radius: 10%;
+    background-color: rgba(206, 217, 226, 0.377)
+;
+}
+.sigin-heading{
+    margin-top: 80px;
+    margin-left: 30px; 
+    height: 44px;
+    text-align: left;
+    font: normal normal medium 32px/60px Avenir;
+    letter-spacing: 1.28px;
+    color: #081364;    
+    opacity: 1;
+}
+.sigin-heading{
+    align-items: left;
+}
+.email-block{
+    margin-top: 70px;
+    margin-right: 320px ;
+    color: #081364;
+
+}
+.pass-block{
+    margin-top: 15px;
+    margin-right: 320px ;
+    color: #081364;
+}
+.signin-label{
+    margin-right: 42px;
+}
+.sign-form{
+    padding: 5px 10px;
+    margin-left: 30px;
+    border: none;
+    margin-top: 10px;
+    
+}
+
+.signin-label1{
+    margin-right: 360px;
+    color: #081364;    
+  
+}
+.forgot1{
+    margin-right: 130px;
+    font: normal normal medium 16px/26px Avenir;
+    letter-spacing: 0.64px;
+    color: black;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.sign-sumbit-btn{
+    float: left;
+border-radius: 5px;
+margin-top: 40px;
+margin-left: 26px;
+width: 150px;
+height: 50px;
+background: #081364;  
+text-align: center;
+font: normal normal bold 15px/20px Open Sans;
+font-size: 20px;
+letter-spacing: 2px;
+color: #FFFFFF;
+opacity: 1; 
+}
+
+.reg-block{
+    position: absolute;
+    top: 400px;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+}
+
+.reg-para{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    font: normal normal normal 16px/26px Avenir;
+letter-spacing: 0.64px;
+color: #040533;
+text-transform: capitalize;
+opacity: 1;
+}
+.reg-sumbit-btn{
+    width: 150px;
+height: 50px;
+margin-top: 20px;
+margin-left: 30px;
+border: 2px solid #4552C1;
+border-radius: 10%;
+text-align: center;
+font: normal normal bold 15px/20px Open Sans;
+letter-spacing: 1px;
+font-size: large;
+color: #4552C1;
+opacity: 1;
+}
